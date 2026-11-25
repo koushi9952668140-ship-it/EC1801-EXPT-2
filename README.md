@@ -71,13 +71,8 @@ module tb2;
     end
 
 endmodule
+<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
 
-
-
-
-
- 
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/992395e9-031d-441e-9475-3d67cf05e382" />
 
 
 # Simulation Procedure
@@ -128,7 +123,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/992395e9-031d-441e-9475-3d67cf05e382" />
 
  
 # Viva-Voce Questions
